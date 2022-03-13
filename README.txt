@@ -1,2 +1,2 @@
-My -c only accepts -c [PORT].  I had trouble implementing -c HOST [PORT].
-host name is accepted in dotted form and is set in sp-tcp-client.c
+Fully working TCP-Client/Server board game.
+Can connect multiple users to one server with infinite isntances of different games using fork.
